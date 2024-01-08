@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Twitter Clone",
+    "image": "TwitterClone",
+    "desc":"React+other libraries & frameworks.",
+    "links": {
+      "view": "https://github.com/Sakshi14rj/twitter-clone"
+      
+    }
+  },
+  {
+    "name": "StackOverflow Clone",
+    "image": "stack OVERFLOW CLONE",
+    "desc":"MERN Website.",
+    "links": {
+      "view": "https://github.com/Sakshi14rj/STACKOF"
+     
+
+    }
+  },
+  {
+    "name": "Soul-sial",
+    "image": "SOUL-SIAL",
+    "desc":"CRUD ,React+Node+Express Website.",
+    "links": {
+      "view": "https://github.com/Sakshi14rj/Social-MERN" 
+      
+    }
+  },
+  {
+    "name": "ChatBot",
+    "image": "Doddles",
+    "desc":"Javascript APIs and React+Node Website.",
+    "links": {
+      "view": "https://github.com/Sakshi14rj/GPT3.5Clone"
+      
+
+    }
+  },
+  {
+    "name": "SUPES",
+    "image": "SUPES",
+    "desc":"WordPress Website - not hosted",
+    "links": {
+      "view": "https://github.com/Sakshi14rj"
+     
+
+    }
+  },
+  {
+    "name": "Sorting Visualizer",
+    "image": "Sorting Visualizer",
+    "desc": "Clear your DSA concepts with this.",
+    "links": {
+      "view": "https://github.com/Sakshi14rj/Sorting-Visualizer"
+       
+    }
+  },
+{
+    "name": "Logo Designs",
+    "image": "LOGO",
+    "desc":"Logo Samples",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1wDQLOJET5MiqAycrO69IqdY6K25tlYbn?usp=sharing"
+       
+    }
+  },
+{
+    "name": "Prototypes",
+    "image": "proto",
+    "desc":"Prototypes & Mockups",
+    "links": {
+      "view": "https://www.figma.com/file/sdNSKWv1Ney08Ma3cdUlPi/Untitled?type=design&mode=design&t=P81IhKaKlGHls6eB-1"
+      
+
+    }
+  },
+{
+    "name": "UI&UX Sample",
+    "image": "Product Designs",
+    "desc":"UI +UX Designs",
+    "links": {
+      "view": "https://www.figma.com/proto/sb7J9gIgAGagvlrUFUgCAu/Giftmas?type=design&node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2"
+    }
+} 
+]
